@@ -817,4 +817,5 @@ def testStep= testCase.getTestStepByName("OOP");
 testStep.run(testRunner,context)
 
 context.Family.familyTie("daily motion")
-//context.Family.holidayBooking("22/09/2019", "Special offer")</script></con:config></con:testStep><con:properties/></con:testCase><con:properties/></con:testSuite><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:sensitiveInformation/></con:soapui-project>
+//context.Family.holidayBooking("22/09/2019", "Special offer")</script></con:config></con:testStep><con:testStep type="groovy" name="Groovy Script" id="92f7e36a-b62b-4670-b94b-dcc71d5848ab"><con:settings/><con:config><script>def testing
+</script></con:config></con:testStep><con:properties/></con:testCase><con:properties/></con:testSuite><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:sensitiveInformation/></con:soapui-project>
